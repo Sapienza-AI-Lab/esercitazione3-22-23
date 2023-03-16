@@ -1,3 +1,11 @@
+.idea/*
+cmake-build-debug/*
+output/*
+build/*
+test0
+test1
+test2
+
 # Prerequisites
 *.d
 
